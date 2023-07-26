@@ -5,6 +5,7 @@
 - 📫 How to reach me
   - email: **maggie.marathe@gmail.com**
   - linkedin: **https://www.linkedin.com/in/margaret-marathe-5b7b2a261/**
+- Personal website: **http://margaretmarathe.com**
 
 <!---
 MargaretMarathe/MargaretMarathe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
